@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #e9ecef;
+    color: #212529;
+}
+
+h1, h2 {
+    color: #0055a5;
+}
+
+a {
+    color: #0055a5;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    background-color: #fff;
+}
+
+table th, table td {
+    border: 1px solid #dee2e6;
+    padding: 8px;
+    text-align: left;
+}
+
+button {
+    margin: 2px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button[name="action"][value="aprovar"] {
+    background-color: #28a745;
+    color: white;
+}
+
+button[name="action"][value="rejeitar"] {
+    background-color: #dc3545;
+    color: white;
+}
+
+button[name="action"][value="cancelar"] {
+    background-color: #6c757d;
+    color: white;
+}

@@ -1,6 +1,6 @@
-# Sistema de Reserva de Salas BCRP-USP
+# Sistema de Reserva de Salas USP
 
-Sistema web simples para reserva de salas da BCRP-USP, desenvolvido por Fonte-Boa Lázaro Torres em PHP e MySQL, com dashboard administrativo e área pública de reservas sem necessidade de login.
+Sistema web simples para reserva de salas da USP, desenvolvido em PHP e MySQL, com dashboard administrativo e área pública de reservas sem necessidade de login.
 
 ## Funcionalidades
 
